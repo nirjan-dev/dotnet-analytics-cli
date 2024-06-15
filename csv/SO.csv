@@ -1,0 +1,20 @@
+site_name,placementid,placement,size,type,is_vid,Formats,Notes
+stealthoptional.com,6135cbeb1f2bbd4053f45a8a,[V][A] Instream - PreRoll - Desktop - Stealthoptional,1x1,PreRoll,Video,,
+stealthoptional.com,628cec8689edab57d83f0170,Stealthoptional - 300x50 ATF v1,300x50,Static,Display,,Removed
+stealthoptional.com,5e8212d91c957813c16ee0d4,Stealthoptional - 300x250 Static,300x250,In-article,Display,,Removed
+stealthoptional.com,6135cbfa0f8eee2b66278c3d,[V][A] Instream - PreRoll - Mobile - Stealthoptional,1x1,PreRoll,Video,,
+stealthoptional.com,5e8212c41c957813c16ee0d2,Stealthoptional - 300x250 Dynamic,"300x250, 300x600, 160x600	",In-article,Display,,
+stealthoptional.com,6135d0fb0f8eee2b66278c41,Stealthoptional - Rich Media [Slider Off],1x1,Rich Media,Display,,Removed
+stealthoptional.com,5ece2738a624ae2e71257ae3,Stealthoptional - 300x250 Vertical Sticky (RM),"300x250, 300x600, 160x600	",Outside article,Display,,
+stealthoptional.com,6267ca2d4a325d517aa4e4e5,Stealthoptional - 300x250 Static V2,300x250,In-article,Display,,
+stealthoptional.com,5e78f7dd963d0e25e62b5f19,Stealthoptional - Rich Media [Slider On],1x1,Rich Media,Display and Video,,
+stealthoptional.com,628cec5a89edab57d83f016e,Stealthoptional - 300x50 Static - Gallery 3,300x50,In-article,Display,,
+stealthoptional.com,628cec4f89edab57d83f016c,Stealthoptional - 728x90 Static - Gallery 2,728x90,In-article,Display,,
+stealthoptional.com,5e8212fd963d0e25e62b6157,Stealthoptional - 728x90 Static,728x90,In-article,Display,,
+stealthoptional.com,5e8213281c957813c16ee0da,Stealthoptional - 728x90 Desktop Footer (RM),"728x90, 970x90",Outside article,Display,Adhesive Banner Footer,
+stealthoptional.com,628cec8a89edab57d83f0172,Stealthoptional - 300x50 ATF v2,300x50,Outside article,Display,,
+stealthoptional.com,5e8212e91c957813c16ee0d6,Stealthoptional - 728x90 Dynamic,"728x90, 970x250, 970x90	",In-article,Display or Desktop Takeover,Takeover or Billboard,
+stealthoptional.com,607948989ada6778be32cb90,Stealthoptional - 300x50 Mobile Footer (RM),"300x50, 320x50	",Outside article,Display,Adhesive Mobile Footer,
+stealthoptional.com,6267ca546ba5e10257029b85,Stealthoptional - 300x50 Dynamic V2,"300x50, 320x50, 300x100, 320x100	",In-article,Display,,
+stealthoptional.com,5e82130c6a9be55c3ef22653,Stealthoptional - 300x50 Dynamic Mobile,"300x50, 320x50, 320x100, 300x100, 5x5	",In-article,Display or Mobile Takeover,,
+stealthoptional.com,62bf0a65b78a95338ae25a9b,Stealthoptional - 728x90 Static v2	,728x90,In-article,Display,,

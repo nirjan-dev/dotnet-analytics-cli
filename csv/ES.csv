@@ -1,0 +1,24 @@
+site_name,placementid,placement,size,type,is_vid,,Notes
+epicstream.com,60d0a20a9d5a0727fc5b0876,Epicstream - Static 300x250,"300x250, 5x5",In-article,Display,,
+epicstream.com,6241c102c422233f69f905c5,Epic Stream - 728x90 Static Gallery,728x90,In-article,Display,,
+epicstream.com,60d0a2339d5a0727fc5b087a,Epicstream - Dynamic Mobile 300x50,"300x50, 320x50, 5x5",In-article,Display,,
+epicstream.com,60d0a28d534c09289428fe4f,Epicstream - 300x50 Mobile Footer [RM],"300x50, 320x50",Outside article,Display,Adhesive Mobile Footer,
+epicstream.com,6241c42bc422233f69f905ce,Epic Stream - 300x50 Dynamic V2,"320x50, 300x50, 300x100, 320x100",In-article,Display,,
+epicstream.com,61532127d562ee3446ede753,Epicstream - Rich Media (no outstream),1x1,Rich Media,Display,,Removed
+epicstream.com,60d0a2679d5a0727fc5b087e,Epicstream - 728x90 Desktop Footer [RM],"728x90, 970x90",Outside article,Display,Adhesive Desktop Footer,
+epicstream.com,60d0a23f9d5a0727fc5b087c,Epicstream - Rich Media 1x1,1x1,Rich Media,Display and Video,,
+epicstream.com,6241c468c422233f69f905d0,Epic Stream - 300x50 ATF V2,"300x50, 320x50, 300x100, 320x100, 5x5",In-article,Display,,Removed
+epicstream.com,6242bfca53686d04bb3ac11e,Epic Stream - 300x50 Dynamic WTW,"300x50, 320x50, 300x100, 320x100",In-article,Display,,
+epicstream.com,60dc566a18bcc8058fd781dc,[V][A] Instream - Preroll - Epicstream - Desktop - CMS,1x1,PreRoll,Video,,
+epicstream.com,626240056e93aa1d5434d324,Epic Stream - 300x50 ATF,"300x50, 320x50, 300x100, 320x100, 5x5",Outside article,Display,,
+epicstream.com,60d0a1fe534c09289428fe4d,Epicstream - Dynamic 728x90,"728x90, 970x90, 970x250",Outside article,Display or Takeover,Billboard or takeover,
+epicstream.com,60d0a2159d5a0727fc5b0878,Epicstream - Dynamic 300x250,"300x250, 300x600, 120x600, 160x600",In-article,Display,,
+epicstream.com,6241c11dc422233f69f905c8,Epic Stream - 300x50 Dynamic Gallery,"300x50, 320x50, 300x100, 320x100",In-article,Display,,
+epicstream.com,6242bfb2ce280777db115998,Epic Stream - 728x90 Static WTW,728x90,In-article,Display,,
+epicstream.com,60d0a1f3534c09289428fe4b,Epicstream - Static 728x90,728x90,In-article,Display,,
+epicstream.com,60dc5677a4e99c2e94acbc3b,[V][A] Instream - Preroll - Epicstream - Mobileweb - CMS,1x1,PreRoll,Video,,
+epicstream.com,6241c0f1c422233f69f905c3,Epic Stream - 300x250 Static Gallery,300x250,In-article,Display,,
+epicstream.com,60d0a27f9d5a0727fc5b0880,Epicstream - Vertical Stickies [RM],"300x250, 300x600, 120x600, 160x600",Outside article,Display,,
+epicstream.com,6241c40cce280777db11590c,Epic Stream - 300x250 static V2,300x250,In-article,Display,,New
+epicstream.com,62cc393ab58db90aaf2206c9,Epic Stream - 300x250 Static WTW,300x250,In-article,Display,,New
+epicstream.com,62bf0b19b78a95338ae25ad5,Epicstream - Static 728x90 v2,728x90,In-article,Display,,

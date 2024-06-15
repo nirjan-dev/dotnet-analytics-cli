@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/nk13/personal-projects/DotNetCLI/site-report.csproj": {}
+  },
+  "projects": {
+    "/home/nk13/personal-projects/DotNetCLI/site-report.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/nk13/personal-projects/DotNetCLI/site-report.csproj",
+        "projectName": "site-report",
+        "projectPath": "/home/nk13/personal-projects/DotNetCLI/site-report.csproj",
+        "packagesPath": "/home/nk13/.nuget/packages/",
+        "outputPath": "/home/nk13/personal-projects/DotNetCLI/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/nk13/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Csv": {
+              "target": "Package",
+              "version": "[2.0.87, )"
+            },
+            "Google.Analytics.Data.V1Beta": {
+              "target": "Package",
+              "version": "[2.0.0-beta01, )"
+            },
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            },
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.44.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
